@@ -1,9 +1,15 @@
 {
     "version":  "0.8.0",
+    "allowedMods":  [
+                        "BoneLib.dll",
+                        "LabFusion.dll",
+                        "LascoSRP.dll",
+                        "RagdollPlayer.dll"
+                    ],
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "768691a271c2547ad7b1e876ec26b0bc2de45293767bdce46f4c2a6ad68bb195"
+                      "sha256":  "03ab96a27b1d5e90c2fe4ff26152b3cb8849ce58e98e7888316028a94c26f84a"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -12,7 +18,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "8cc469be774690b56f31e9212062a7dd0a436231e2999cdcda07214e654dd211",
-                     "version":  "0.4.2"
+                     "sha256":  "be3ac6b8c825b6251a273bc66d7fe2f1ecc5480c9859fe1b055e789b11f6ba2a",
+                     "version":  "0.5.0"
                  }
 }
