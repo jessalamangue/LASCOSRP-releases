@@ -1,5 +1,5 @@
 {
-    "version":  "0.22.0",
+    "version":  "0.23.0",
     "allowedMods":  [
                         "BoneLib.dll",
                         "LabFusion.dll",
@@ -9,7 +9,7 @@
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "fa8a1ce61b161770f943c3d0c7ec4964e9b14f268b5032184c9974d2a2240aea"
+                      "sha256":  "a9900ba436c031693a55544e8b11c96ec8524d7196035da9486be3946e5f3e20"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -18,7 +18,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "0fc71536512c07dfae9ca8ab3d3baa0a3393b3f6b904c2276eef48e82c22dea1",
+                     "sha256":  "f887ebc19c22ad9a482e15102344ad46e2e8e10e340861475df80d4cea663563",
                      "version":  "0.10.0"
                  }
 }
