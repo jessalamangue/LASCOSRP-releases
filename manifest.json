@@ -1,5 +1,5 @@
 {
-    "version":  "0.37.0",
+    "version":  "0.39.0",
     "allowedMods":  [
                         "BoneLib.dll",
                         "LabFusion.dll",
@@ -21,12 +21,17 @@
                              "pallet":  "Jasmine.ColtPython",
                              "name":  "Armes : Colt Python",
                              "url":  "https://mod.io/g/bonelab/m/colt-python"
+                         },
+                         {
+                             "pallet":  "Bordy.Glock17Gen5",
+                             "name":  "Armes : Glock 17",
+                             "url":  "https://mod.io/g/bonelab/m/glock-177"
                          }
                      ],
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "5472b904e2e0f787af096c735af8807a37eb8e8bfaec7ec2d682b4b0052066b5"
+                      "sha256":  "d8a2b44981269c52cce62f035fc174396de6efdef26330e4b8cc38aceb5a1da6"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -35,7 +40,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "e8da41b6ed7ce1096932e1a5356849a5b64a5be1793206ce9566da479fb8d524",
-                     "version":  "0.16.0"
+                     "sha256":  "599835945ebddf2b48d3c4e4eb5fcc0b6522e83783cee645e5516d17f986cbbc",
+                     "version":  "0.17.0"
                  }
 }
