@@ -1,5 +1,5 @@
 {
-    "version":  "0.39.0",
+    "version":  "0.40.0",
     "allowedMods":  [
                         "BoneLib.dll",
                         "LabFusion.dll",
@@ -26,12 +26,17 @@
                              "pallet":  "Bordy.Glock17Gen5",
                              "name":  "Armes : Glock 17",
                              "url":  "https://mod.io/g/bonelab/m/glock-177"
+                         },
+                         {
+                             "pallet":  "spudgun1001.Suits",
+                             "name":  "Skins : Suits, Civs and Cops",
+                             "url":  "https://mod.io/g/bonelab/m/suits-and-hats"
                          }
                      ],
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "d8a2b44981269c52cce62f035fc174396de6efdef26330e4b8cc38aceb5a1da6"
+                      "sha256":  "7fa91a6b758e4cd3d13e41567bdc02eac89aed6a12f1a528deb4b7a7470c58e3"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -40,7 +45,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "599835945ebddf2b48d3c4e4eb5fcc0b6522e83783cee645e5516d17f986cbbc",
-                     "version":  "0.17.0"
+                     "sha256":  "9dabbbc40ee0b72eb8a921ccdb8a34baa71a32fcf52e44d366ff95403e1a6a84",
+                     "version":  "0.18.0"
                  }
 }
