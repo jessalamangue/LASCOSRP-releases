@@ -1,5 +1,5 @@
 {
-    "version":  "0.36.0",
+    "version":  "0.37.0",
     "allowedMods":  [
                         "BoneLib.dll",
                         "LabFusion.dll",
@@ -11,12 +11,22 @@
                              "pallet":  "Zetnik.rpbrmeastcoastv5",
                              "name":  "Carte RP BRM EastCoast v5",
                              "url":  "https://mod.io/g/bonelab/m/rp-brm-eastcoast-v5"
+                         },
+                         {
+                             "pallet":  "Mango.MangosGunPack",
+                             "name":  "Armes : Mango\u0027s Weapon Pack",
+                             "url":  "https://mod.io/g/bonelab/m/mangos-weapon-pack"
+                         },
+                         {
+                             "pallet":  "Jasmine.ColtPython",
+                             "name":  "Armes : Colt Python",
+                             "url":  "https://mod.io/g/bonelab/m/colt-python"
                          }
                      ],
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "84b0ee2840a55389d49cbd0a2f7a7aa2bb566c509ea2aef7907453434a2b040e"
+                      "sha256":  "5472b904e2e0f787af096c735af8807a37eb8e8bfaec7ec2d682b4b0052066b5"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -25,7 +35,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "5e67cf4cd829e26121190d616db2089032a922acb7c022f01afd4b40330d0acb",
+                     "sha256":  "e8da41b6ed7ce1096932e1a5356849a5b64a5be1793206ce9566da479fb8d524",
                      "version":  "0.16.0"
                  }
 }
