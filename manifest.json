@@ -46,7 +46,7 @@
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "3d2567ce4fef0bd66ffa94895aa0031d8af89f69a7a835417130e07148e085ee"
+                      "sha256":  "72e33c6dae59d03a0a3e5260f8855aaedffc18e1e4fa5ea10c7d4bebb1b10212"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -55,7 +55,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "0db4c7bc0e9878221614f2ff5a7c16f02e60a19bfe20a3657d89b2aa8483ab08",
-                     "version":  "0.20.0"
+                     "sha256":  "57b72ceaefecb52d83a7471ba05eca4e457be7924fd8b5c6e212ae8d3e2ed21f",
+                     "version":  "0.21.0"
                  }
 }
