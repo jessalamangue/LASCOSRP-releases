@@ -1,5 +1,5 @@
 {
-    "version":  "0.52.0",
+    "version":  "0.53.0",
     "allowedMods":  [
                         "BoneLib.dll",
                         "LabFusion.dll",
@@ -36,12 +36,17 @@
                              "pallet":  "OskSir.Gford",
                              "name":  "Skin du maire : G-Man Ford",
                              "url":  "https://mod.io/g/bonelab/m/g-man-ford-gford"
+                         },
+                         {
+                             "pallet":  "WaffleGuy.HL2Crowbar",
+                             "name":  "Pied de biche (crochetage) : Half-Life Crowbar",
+                             "url":  "https://mod.io/g/bonelab/m/half-life-crowbar"
                          }
                      ],
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "8dfc49cdf258d3c9674dbee112b50016a060ba9c7a09db0fb73f53bd881fd63b"
+                      "sha256":  "e78a03cb62256d492aaadfd2afd0de94a113cb16d13764273f8c5a6a40a760ad"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -50,7 +55,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "40560c54ad4562e78303674b4eb7d54160e3bcc9da5025a3196983485a1a0714",
+                     "sha256":  "00e5db533b4287e63f1368942772398ccd5d8c38c538cbc45cbf98adb58f2bbb",
                      "version":  "0.20.0"
                  }
 }
