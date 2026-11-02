@@ -1,5 +1,5 @@
 {
-    "version":  "0.48.0",
+    "version":  "0.49.0",
     "allowedMods":  [
                         "BoneLib.dll",
                         "LabFusion.dll",
@@ -33,15 +33,15 @@
                              "url":  "https://mod.io/g/bonelab/m/suits-and-hats"
                          },
                          {
-                             "pallet":  "monketuber.Joebidenavatarpack",
-                             "name":  "Skin du maire : Joe Biden",
-                             "url":  "https://mod.io/g/bonelab/m/joe-biden-avatar2"
+                             "pallet":  "OskSir.Gford",
+                             "name":  "Skin du maire : G-Man Ford",
+                             "url":  "https://mod.io/g/bonelab/m/g-man-ford-gford"
                          }
                      ],
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "282b0031c47f0626022213b7620ff61a3a5435a80aad44042c409ae5e2076dd5"
+                      "sha256":  "6d4d6f1dfa324664b3c942df4aaa3fb325f9975b48d8b0cdf56aae639e184d81"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -50,7 +50,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "3cf81d9972dfd12692ca06e631648535be8dc547c41be2e389352cb8a94be126",
+                     "sha256":  "71a301a28097ffcc4d16810091ff3e09863c138d78405919a20f6a1c50310cd0",
                      "version":  "0.20.0"
                  }
 }
