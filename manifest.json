@@ -1,5 +1,5 @@
 {
-    "version":  "0.43.0",
+    "version":  "0.45.0",
     "allowedMods":  [
                         "BoneLib.dll",
                         "LabFusion.dll",
@@ -31,12 +31,17 @@
                              "pallet":  "spudgun1001.Suits",
                              "name":  "Skins : Suits, Civs and Cops",
                              "url":  "https://mod.io/g/bonelab/m/suits-and-hats"
+                         },
+                         {
+                             "pallet":  "Ethanific.Macron",
+                             "name":  "Skin du maire : Emmanuel Macron",
+                             "url":  "https://mod.io/g/bonelab/m/emmanuel-macron"
                          }
                      ],
     "files":  [
                   {
                       "path":  "Mods/LascoSRP.dll",
-                      "sha256":  "dcfe7e204072ddae9e3a00bae7d1cab4f57394b6ced5feb802f97812f58784c6"
+                      "sha256":  "8b43dfc1a29fa448ca2be3ca2b32ee411e39b107c40489c93d3402ff6d957630"
                   },
                   {
                       "path":  "UserLibs/Npgsql.dll",
@@ -45,7 +50,7 @@
               ],
     "launcher":  {
                      "path":  "launcher/LASCOSRP Launcher.exe",
-                     "sha256":  "eed8decdc7b6d0b48f46a8efa3889ee206d00b7fbcad1a02b903207969a08bbd",
-                     "version":  "0.19.0"
+                     "sha256":  "4883ad66fe5a363e431a2280d32e1c414ebaa3a2de60e80cb6fcf92be0c83e43",
+                     "version":  "0.20.0"
                  }
 }
